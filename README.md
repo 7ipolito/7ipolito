@@ -2,7 +2,7 @@
 
 Hello! My name is Allan, I was born in 2003 in Rio de Janeiro, Brazil. I currently work as a developer Fullstack.
 
-I have 3 years of experience working with JavaScript, specializing in fullstack. My technical expertise includes:
+I have 6 years of experience working with JavaScript, specializing in fullstack. My technical expertise includes:
 
 - **React**: Proficient in building dynamic, responsive web applications.
 - **Node.js**: Skilled in creating robust server-side applications.
