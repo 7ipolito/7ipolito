@@ -1,6 +1,6 @@
 # About Myself
 
-Hello! My name is Allan, I was born in 2003 in Rio de Janeiro, Brazil. I currently work as a developer Fullstack.
+Hello! My name is Allan. I currently work as a developer Fullstack.
 
 I have 6 years of experience working with JavaScript, specializing in fullstack. My technical expertise includes:
 
